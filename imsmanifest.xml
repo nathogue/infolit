@@ -1,0 +1,728 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest identifier="eXe-MANIFEST-20260909153213EFIWDV"
+  xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2"
+  xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2"
+  xmlns:imsmd="http://www.imsglobal.org/xsd/imsmd_v1p2">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <adlcp:location>imslrm.xml</adlcp:location>
+  </metadata>
+  <organizations default="eXe-20260909153213EFIWDV">
+    <organization identifier="eXe-20260909153213EFIWDV" structure="hierarchical">
+      <title>Information Literacy Tutorial
+</title>
+      <item identifier="ITEM-cd05bc1c-6906-4bf4-be06-ae272daaae00" identifierref="RES-cd05bc1c-6906-4bf4-be06-ae272daaae00" isvisible="true">
+        <title>Welcome!</title>
+      </item>
+      <item identifier="ITEM-page-mth88eie-43u7pvcnn" identifierref="RES-page-mth88eie-43u7pvcnn" isvisible="true">
+        <title>Module 1: Academic Integrity</title>
+        <item identifier="ITEM-page-mth8ikxh-luvhoi6qz" identifierref="RES-page-mth8ikxh-luvhoi6qz" isvisible="true">
+          <title>1. Why Cite?</title>
+        </item>
+        <item identifier="ITEM-page-mth8z3w2-xaq3njb62" identifierref="RES-page-mth8z3w2-xaq3njb62" isvisible="true">
+          <title>2. What Counts as Plagiarism?</title>
+        </item>
+        <item identifier="ITEM-page-mth92h1d-kz4kfd4jg" identifierref="RES-page-mth92h1d-kz4kfd4jg" isvisible="true">
+          <title>3. Quotation, Paraphrase, and Summary</title>
+        </item>
+        <item identifier="ITEM-page-mth9t792-yvnc5azde" identifierref="RES-page-mth9t792-yvnc5azde" isvisible="true">
+          <title>4. Take Notes That Protect You</title>
+        </item>
+        <item identifier="ITEM-page-mtha3s2b-0m17y6vvq" identifierref="RES-page-mtha3s2b-0m17y6vvq" isvisible="true">
+          <title>5. What About Common Knowledge?</title>
+        </item>
+        <item identifier="ITEM-page-mtha6003-o2i3j8xs5" identifierref="RES-page-mtha6003-o2i3j8xs5" isvisible="true">
+          <title>6. Citation Styles</title>
+        </item>
+        <item identifier="ITEM-page-mthab6zb-m4kald89h" identifierref="RES-page-mthab6zb-m4kald89h" isvisible="true">
+          <title>7. Integrate Sources into Your Own Writing</title>
+        </item>
+        <item identifier="ITEM-page-mthar0id-w3k1l80ie" identifierref="RES-page-mthar0id-w3k1l80ie" isvisible="true">
+          <title>Module 1 Quiz</title>
+        </item>
+        <item identifier="ITEM-page-mthaply4-mp7dmm764" identifierref="RES-page-mthaply4-mp7dmm764" isvisible="true">
+          <title>Module Wrap-Up</title>
+        </item>
+      </item>
+      <item identifier="ITEM-page-mtix0uzc-jtqsq8mld" identifierref="RES-page-mtix0uzc-jtqsq8mld" isvisible="true">
+        <title>Module 2: Responsible AI for Christian Scholars</title>
+        <item identifier="ITEM-page-mtixvvyn-2upn1phlc" identifierref="RES-page-mtixvvyn-2upn1phlc" isvisible="true">
+          <title>1. Start with the Rules</title>
+        </item>
+        <item identifier="ITEM-page-mtixwrzc-oedkapqry" identifierref="RES-page-mtixwrzc-oedkapqry" isvisible="true">
+          <title>2. AI Can Be Fluent and Wrong</title>
+        </item>
+        <item identifier="ITEM-page-mtiy2mv5-qx22t46lb" identifierref="RES-page-mtiy2mv5-qx22t46lb" isvisible="true">
+          <title>3. Verify Before You Use</title>
+        </item>
+        <item identifier="ITEM-page-mtiybs2r-f1mpx5o4s" identifierref="RES-page-mtiybs2r-f1mpx5o4s" isvisible="true">
+          <title>4. AI as a Tool, Not Evidence</title>
+        </item>
+        <item identifier="ITEM-page-mtiylj16-4dnxb5afd" identifierref="RES-page-mtiylj16-4dnxb5afd" isvisible="true">
+          <title>5. Prompt Responsibly</title>
+        </item>
+        <item identifier="ITEM-page-mtiyq92n-m6037kifl" identifierref="RES-page-mtiyq92n-m6037kifl" isvisible="true">
+          <title>6. Disclosure and Academic Integrity</title>
+        </item>
+        <item identifier="ITEM-page-mtiyr3d8-ubb01p2c4" identifierref="RES-page-mtiyr3d8-ubb01p2c4" isvisible="true">
+          <title>7. Protect Sensitive Information</title>
+        </item>
+        <item identifier="ITEM-page-mtiyrvnm-0yqiwlwt1" identifierref="RES-page-mtiyrvnm-0yqiwlwt1" isvisible="true">
+          <title>8. You Remain Responsible</title>
+        </item>
+        <item identifier="ITEM-page-mtiznq1m-67f4izgyu" identifierref="RES-page-mtiznq1m-67f4izgyu" isvisible="true">
+          <title>Module 2 Quiz</title>
+        </item>
+        <item identifier="ITEM-page-mtizmqum-k5a7r64iu" identifierref="RES-page-mtizmqum-k5a7r64iu" isvisible="true">
+          <title>Module Wrap-Up</title>
+        </item>
+      </item>
+      <item identifier="ITEM-page-mt7baezc-zfufmho5s" identifierref="RES-page-mt7baezc-zfufmho5s" isvisible="true">
+        <title>Module 3: From Topic to Thesis</title>
+        <item identifier="ITEM-page-mt7be85y-j0e77axv3" identifierref="RES-page-mt7be85y-j0e77axv3" isvisible="true">
+          <title>1. Start with a Broad Topic</title>
+        </item>
+        <item identifier="ITEM-page-mt7bgt2x-m4t1yjwov" identifierref="RES-page-mt7bgt2x-m4t1yjwov" isvisible="true">
+          <title>2. Brainstorm Before You Narrow</title>
+        </item>
+        <item identifier="ITEM-page-mt7bql3t-93r2olafz" identifierref="RES-page-mt7bql3t-93r2olafz" isvisible="true">
+          <title>3. Turn Your Topic into a Research Question</title>
+        </item>
+        <item identifier="ITEM-page-mt7bzcvy-mc3pm8vt1" identifierref="RES-page-mt7bzcvy-mc3pm8vt1" isvisible="true">
+          <title>4. Your Research Question Can Change</title>
+        </item>
+        <item identifier="ITEM-page-mt7ce0g5-rygsv862g" identifierref="RES-page-mt7ce0g5-rygsv862g" isvisible="true">
+          <title>5. Research Before You Decide What You Believe</title>
+        </item>
+        <item identifier="ITEM-page-mt7cpetb-lfbsetacz" identifierref="RES-page-mt7cpetb-lfbsetacz" isvisible="true">
+          <title>6. From Research Question to Working Thesis</title>
+        </item>
+        <item identifier="ITEM-page-mt7cu8an-gx6gq7h10" identifierref="RES-page-mt7cu8an-gx6gq7h10" isvisible="true">
+          <title>7. What Makes a Strong Working Thesis?</title>
+        </item>
+        <item identifier="ITEM-page-mt7cz6l9-fjqyzpjxs" identifierref="RES-page-mt7cz6l9-fjqyzpjxs" isvisible="true">
+          <title>8. Put the Whole Process Together</title>
+        </item>
+        <item identifier="ITEM-page-mt7d70ze-88gmuwhd9" identifierref="RES-page-mt7d70ze-88gmuwhd9" isvisible="true">
+          <title>Module 3 Quiz</title>
+        </item>
+        <item identifier="ITEM-page-mt8qc8vj-vo4k3330x" identifierref="RES-page-mt8qc8vj-vo4k3330x" isvisible="true">
+          <title>Module Wrap-Up</title>
+        </item>
+      </item>
+      <item identifier="ITEM-page-mt8ofw16-226o4cwm9" identifierref="RES-page-mt8ofw16-226o4cwm9" isvisible="true">
+        <title>Module 4: Finding &amp; Understanding Sources</title>
+        <item identifier="ITEM-page-mt8oo6oa-31tki3usc" identifierref="RES-page-mt8oo6oa-31tki3usc" isvisible="true">
+          <title>1. Not All Sources Do the Same Job</title>
+        </item>
+        <item identifier="ITEM-page-mt8orh8w-xszx41m8t" identifierref="RES-page-mt8orh8w-xszx41m8t" isvisible="true">
+          <title>2. Scholarly and Popular Sources</title>
+        </item>
+        <item identifier="ITEM-page-mt8pgr6f-06kkhwlvs" identifierref="RES-page-mt8pgr6f-06kkhwlvs" isvisible="true">
+          <title>3. Primary, Secondary, and Tertiary Sources</title>
+        </item>
+        <item identifier="ITEM-page-mt8q0kfu-m36ighprp" identifierref="RES-page-mt8q0kfu-m36ighprp" isvisible="true">
+          <title>4. What Is Peer Review?</title>
+        </item>
+        <item identifier="ITEM-page-mt8q6a36-85vuhqpb7" identifierref="RES-page-mt8q6a36-85vuhqpb7" isvisible="true">
+          <title>5. Ministry and Practitioner Sources</title>
+        </item>
+        <item identifier="ITEM-page-mt8sb0ht-hnk1e7b4t" identifierref="RES-page-mt8sb0ht-hnk1e7b4t" isvisible="true">
+          <title>6. Match the Source to the Need</title>
+        </item>
+        <item identifier="ITEM-page-mt8sn70k-8sfjd9q2u" identifierref="RES-page-mt8sn70k-8sfjd9q2u" isvisible="true">
+          <title>Module 4 Quiz</title>
+        </item>
+        <item identifier="ITEM-page-mt8sx15t-qzq79l996" identifierref="RES-page-mt8sx15t-qzq79l996" isvisible="true">
+          <title>Module Wrap-Up</title>
+        </item>
+      </item>
+      <item identifier="ITEM-page-mt8zhv24-txmi1ufud" identifierref="RES-page-mt8zhv24-txmi1ufud" isvisible="true">
+        <title>Module 5: Searching Strategically</title>
+        <item identifier="ITEM-page-mtacb85h-6ep6jcs77" identifierref="RES-page-mtacb85h-6ep6jcs77" isvisible="true">
+          <title>1. Searching Is Translation</title>
+        </item>
+        <item identifier="ITEM-page-mtacjpcu-qgq9h35zk" identifierref="RES-page-mtacjpcu-qgq9h35zk" isvisible="true">
+          <title>2. From Concepts to a Keyword Bank</title>
+        </item>
+        <item identifier="ITEM-page-mtbjyca5-1el4nv2h5" identifierref="RES-page-mtbjyca5-1el4nv2h5" isvisible="true">
+          <title>3. Combine Concepts with AND and OR</title>
+        </item>
+        <item identifier="ITEM-page-mtbl3aw1-s0cmx9q8p" identifierref="RES-page-mtbl3aw1-s0cmx9q8p" isvisible="true">
+          <title>4. Use Filters Carefully</title>
+        </item>
+        <item identifier="ITEM-page-mtbleqb9-mrp2d79ov" identifierref="RES-page-mtbleqb9-mrp2d79ov" isvisible="true">
+          <title>5. When a Search Does Not Work</title>
+        </item>
+        <item identifier="ITEM-page-mtblpiat-wqftmehv2" identifierref="RES-page-mtblpiat-wqftmehv2" isvisible="true">
+          <title>6. Let Good Sources Improve Your Search</title>
+        </item>
+        <item identifier="ITEM-page-mtbmjtlp-2fm8ipavl" identifierref="RES-page-mtbmjtlp-2fm8ipavl" isvisible="true">
+          <title>Module 5 Quiz</title>
+        </item>
+        <item identifier="ITEM-page-mtbmiplp-h6asd788x" identifierref="RES-page-mtbmiplp-h6asd788x" isvisible="true">
+          <title>Module Wrap-Up</title>
+        </item>
+      </item>
+      <item identifier="ITEM-page-mtcv3bxl-tlqrppk2o" identifierref="RES-page-mtcv3bxl-tlqrppk2o" isvisible="true">
+        <title>Module 6: Evaluating Information &amp; Authority</title>
+        <item identifier="ITEM-page-mtcvigt8-1hr1c42tk" identifierref="RES-page-mtcvigt8-1hr1c42tk" isvisible="true">
+          <title>1. Finding Information Is Not the Same as Verifying It</title>
+        </item>
+        <item identifier="ITEM-page-mtcvktbp-anblps9bl" identifierref="RES-page-mtcvktbp-anblps9bl" isvisible="true">
+          <title>2. Use SIFT</title>
+        </item>
+        <item identifier="ITEM-page-mtcvmx9e-i7ug88mc3" identifierref="RES-page-mtcvmx9e-i7ug88mc3" isvisible="true">
+          <title>3. Lateral Reading</title>
+        </item>
+        <item identifier="ITEM-page-mtcvu1bz-84odjkhxh" identifierref="RES-page-mtcvu1bz-84odjkhxh" isvisible="true">
+          <title>4. Bias and Perspective</title>
+        </item>
+        <item identifier="ITEM-page-mtcvvt59-pecg4uxiq" identifierref="RES-page-mtcvvt59-pecg4uxiq" isvisible="true">
+          <title>5. Evaluate Evidence and Reasoning</title>
+        </item>
+        <item identifier="ITEM-page-mtcw4vyf-jgh1jhysv" identifierref="RES-page-mtcw4vyf-jgh1jhysv" isvisible="true">
+          <title>6. Authority for What?</title>
+        </item>
+        <item identifier="ITEM-page-mtcwfv4i-2fbnaojtg" identifierref="RES-page-mtcwfv4i-2fbnaojtg" isvisible="true">
+          <title>7. Credentials and Affiliations</title>
+        </item>
+        <item identifier="ITEM-page-mtcx0tai-bcmm780bi" identifierref="RES-page-mtcx0tai-bcmm780bi" isvisible="true">
+          <title>Module 6 Quiz</title>
+        </item>
+        <item identifier="ITEM-page-mtcwxkuf-hmqte66g0" identifierref="RES-page-mtcwxkuf-hmqte66g0" isvisible="true">
+          <title>Module Wrap-Up</title>
+        </item>
+      </item>
+      <item identifier="ITEM-page-mt7f4vgp-zrzy3ptl7" identifierref="RES-page-mt7f4vgp-zrzy3ptl7" isvisible="true">
+        <title>Module 7: Writing Successful Research Papers</title>
+        <item identifier="ITEM-page-mt7fxiln-txvmnn2mm" identifierref="RES-page-mt7fxiln-txvmnn2mm" isvisible="true">
+          <title>1. Start with the Assignment</title>
+        </item>
+        <item identifier="ITEM-page-mt7gf7ql-q59j7uryh" identifierref="RES-page-mt7gf7ql-q59j7uryh" isvisible="true">
+          <title>2. Sources Should Have a Purpose</title>
+        </item>
+        <item identifier="ITEM-page-mt7hhwbg-hogvfirz9" identifierref="RES-page-mt7hhwbg-hogvfirz9" isvisible="true">
+          <title>3. One Source Can Do Different Jobs</title>
+        </item>
+        <item identifier="ITEM-page-mt7hk8n8-j0b0oqg3n" identifierref="RES-page-mt7hk8n8-j0b0oqg3n" isvisible="true">
+          <title>4. Your Voice Connects the Sources</title>
+        </item>
+        <item identifier="ITEM-page-mt7i4pzb-calkcwi8i" identifierref="RES-page-mt7i4pzb-calkcwi8i" isvisible="true">
+          <title>5. What If Your Sources Disagree?</title>
+        </item>
+        <item identifier="ITEM-page-mt7i7qv9-z4uzewl1v" identifierref="RES-page-mt7i7qv9-z4uzewl1v" isvisible="true">
+          <title>6. Understanding Counterarguments</title>
+        </item>
+        <item identifier="ITEM-page-mt7inte6-0i5b12rgv" identifierref="RES-page-mt7inte6-0i5b12rgv" isvisible="true">
+          <title>7. Writing a Strong Conclusion</title>
+        </item>
+        <item identifier="ITEM-page-mt7iruar-f8ok63oei" identifierref="RES-page-mt7iruar-f8ok63oei" isvisible="true">
+          <title>8. Research Tips: Work Smarter, Not Just Longer</title>
+        </item>
+        <item identifier="ITEM-page-mt7izbfb-c1h0vhw66" identifierref="RES-page-mt7izbfb-c1h0vhw66" isvisible="true">
+          <title>Module 7 Quiz</title>
+        </item>
+        <item identifier="ITEM-page-mt8qgnwl-jv6ssfe89" identifierref="RES-page-mt8qgnwl-jv6ssfe89" isvisible="true">
+          <title>Module Wrap-Up</title>
+        </item>
+      </item>
+      <item identifier="ITEM-page-mthbahy1-8ls7kogz9" identifierref="RES-page-mthbahy1-8ls7kogz9" isvisible="true">
+        <title>Module 8: Researching for Ministry</title>
+        <item identifier="ITEM-page-mtiuawme-l3s6hf8wy" identifierref="RES-page-mtiuawme-l3s6hf8wy" isvisible="true">
+          <title>1. Begin with the Research Need</title>
+        </item>
+        <item identifier="ITEM-page-mtiucp0p-sa4r7ubwz" identifierref="RES-page-mtiucp0p-sa4r7ubwz" isvisible="true">
+          <title>2. Bible Dictionaries and Reference Works</title>
+        </item>
+        <item identifier="ITEM-page-mtiugmoo-n1ahays5q" identifierref="RES-page-mtiugmoo-n1ahays5q" isvisible="true">
+          <title>3. Choosing Commentaries</title>
+        </item>
+        <item identifier="ITEM-page-mtiuo5j5-9q2a48fzc" identifierref="RES-page-mtiuo5j5-9q2a48fzc" isvisible="true">
+          <title>4. Theological Journals</title>
+        </item>
+        <item identifier="ITEM-page-mtiupyos-cr7ke7k4m" identifierref="RES-page-mtiupyos-cr7ke7k4m" isvisible="true">
+          <title>5. Open-Access Theology</title>
+        </item>
+        <item identifier="ITEM-page-mtiurtvx-eu1i0hidw" identifierref="RES-page-mtiurtvx-eu1i0hidw" isvisible="true">
+          <title>6. Ministry and Practitioner Resources</title>
+        </item>
+        <item identifier="ITEM-page-mtiv7el5-hdkb1qz90" identifierref="RES-page-mtiv7el5-hdkb1qz90" isvisible="true">
+          <title>7. Faith and Scholarship</title>
+        </item>
+        <item identifier="ITEM-page-mtivvs5m-7xtqprnh3" identifierref="RES-page-mtivvs5m-7xtqprnh3" isvisible="true">
+          <title>Module8 Quiz</title>
+        </item>
+        <item identifier="ITEM-page-mtivultg-5zzcvxd1i" identifierref="RES-page-mtivultg-5zzcvxd1i" isvisible="true">
+          <title>Module Wrap-Up</title>
+        </item>
+      </item>
+      <item identifier="ITEM-page-mtj0en05-mwl1yo9l3" identifierref="RES-page-mtj0en05-mwl1yo9l3" isvisible="true">
+        <title>Tutorial Completion!</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="RES-cd05bc1c-6906-4bf4-be06-ae272daaae00" type="webcontent" adlcp:scormtype="sco" href="index.html">
+      <file href="index.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mth88eie-43u7pvcnn" type="webcontent" adlcp:scormtype="sco" href="html/module-1-academic-integrity.html">
+      <file href="html/module-1-academic-integrity.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mth8ikxh-luvhoi6qz" type="webcontent" adlcp:scormtype="sco" href="html/1-why-cite.html">
+      <file href="html/1-why-cite.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mth8z3w2-xaq3njb62" type="webcontent" adlcp:scormtype="sco" href="html/2-what-counts-as-plagiarism.html">
+      <file href="html/2-what-counts-as-plagiarism.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mth92h1d-kz4kfd4jg" type="webcontent" adlcp:scormtype="sco" href="html/3-quotation-paraphrase-and-summary.html">
+      <file href="html/3-quotation-paraphrase-and-summary.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mth9t792-yvnc5azde" type="webcontent" adlcp:scormtype="sco" href="html/4-take-notes-that-protect-you.html">
+      <file href="html/4-take-notes-that-protect-you.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mtha3s2b-0m17y6vvq" type="webcontent" adlcp:scormtype="sco" href="html/5-what-about-common-knowledge.html">
+      <file href="html/5-what-about-common-knowledge.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mtha6003-o2i3j8xs5" type="webcontent" adlcp:scormtype="sco" href="html/6-citation-styles.html">
+      <file href="html/6-citation-styles.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mthab6zb-m4kald89h" type="webcontent" adlcp:scormtype="sco" href="html/7-integrate-sources-into-your-own-writing.html">
+      <file href="html/7-integrate-sources-into-your-own-writing.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mthar0id-w3k1l80ie" type="webcontent" adlcp:scormtype="sco" href="html/module-1-quiz.html">
+      <file href="html/module-1-quiz.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mthaply4-mp7dmm764" type="webcontent" adlcp:scormtype="sco" href="html/module-wrap-up.html">
+      <file href="html/module-wrap-up.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mtix0uzc-jtqsq8mld" type="webcontent" adlcp:scormtype="sco" href="html/module-2-responsible-ai-for-christian-scholars.html">
+      <file href="html/module-2-responsible-ai-for-christian-scholars.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mtixvvyn-2upn1phlc" type="webcontent" adlcp:scormtype="sco" href="html/1-start-with-the-rules.html">
+      <file href="html/1-start-with-the-rules.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mtixwrzc-oedkapqry" type="webcontent" adlcp:scormtype="sco" href="html/2-ai-can-be-fluent-and-wrong.html">
+      <file href="html/2-ai-can-be-fluent-and-wrong.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mtiy2mv5-qx22t46lb" type="webcontent" adlcp:scormtype="sco" href="html/3-verify-before-you-use.html">
+      <file href="html/3-verify-before-you-use.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mtiybs2r-f1mpx5o4s" type="webcontent" adlcp:scormtype="sco" href="html/4-ai-as-a-tool-not-evidence.html">
+      <file href="html/4-ai-as-a-tool-not-evidence.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mtiylj16-4dnxb5afd" type="webcontent" adlcp:scormtype="sco" href="html/5-prompt-responsibly.html">
+      <file href="html/5-prompt-responsibly.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mtiyq92n-m6037kifl" type="webcontent" adlcp:scormtype="sco" href="html/6-disclosure-and-academic-integrity.html">
+      <file href="html/6-disclosure-and-academic-integrity.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mtiyr3d8-ubb01p2c4" type="webcontent" adlcp:scormtype="sco" href="html/7-protect-sensitive-information.html">
+      <file href="html/7-protect-sensitive-information.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mtiyrvnm-0yqiwlwt1" type="webcontent" adlcp:scormtype="sco" href="html/8-you-remain-responsible.html">
+      <file href="html/8-you-remain-responsible.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mtiznq1m-67f4izgyu" type="webcontent" adlcp:scormtype="sco" href="html/module-2-quiz.html">
+      <file href="html/module-2-quiz.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mtizmqum-k5a7r64iu" type="webcontent" adlcp:scormtype="sco" href="html/module-wrap-up-2.html">
+      <file href="html/module-wrap-up-2.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mt7baezc-zfufmho5s" type="webcontent" adlcp:scormtype="sco" href="html/module-3-from-topic-to-thesis.html">
+      <file href="html/module-3-from-topic-to-thesis.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mt7be85y-j0e77axv3" type="webcontent" adlcp:scormtype="sco" href="html/1-start-with-a-broad-topic.html">
+      <file href="html/1-start-with-a-broad-topic.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mt7bgt2x-m4t1yjwov" type="webcontent" adlcp:scormtype="sco" href="html/2-brainstorm-before-you-narrow.html">
+      <file href="html/2-brainstorm-before-you-narrow.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mt7bql3t-93r2olafz" type="webcontent" adlcp:scormtype="sco" href="html/3-turn-your-topic-into-a-research-question.html">
+      <file href="html/3-turn-your-topic-into-a-research-question.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mt7bzcvy-mc3pm8vt1" type="webcontent" adlcp:scormtype="sco" href="html/4-your-research-question-can-change.html">
+      <file href="html/4-your-research-question-can-change.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mt7ce0g5-rygsv862g" type="webcontent" adlcp:scormtype="sco" href="html/5-research-before-you-decide-what-you-believe.html">
+      <file href="html/5-research-before-you-decide-what-you-believe.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mt7cpetb-lfbsetacz" type="webcontent" adlcp:scormtype="sco" href="html/6-from-research-question-to-working-thesis.html">
+      <file href="html/6-from-research-question-to-working-thesis.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mt7cu8an-gx6gq7h10" type="webcontent" adlcp:scormtype="sco" href="html/7-what-makes-a-strong-working-thesis.html">
+      <file href="html/7-what-makes-a-strong-working-thesis.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mt7cz6l9-fjqyzpjxs" type="webcontent" adlcp:scormtype="sco" href="html/8-put-the-whole-process-together.html">
+      <file href="html/8-put-the-whole-process-together.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mt7d70ze-88gmuwhd9" type="webcontent" adlcp:scormtype="sco" href="html/module-3-quiz.html">
+      <file href="html/module-3-quiz.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mt8qc8vj-vo4k3330x" type="webcontent" adlcp:scormtype="sco" href="html/module-wrap-up-3.html">
+      <file href="html/module-wrap-up-3.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mt8ofw16-226o4cwm9" type="webcontent" adlcp:scormtype="sco" href="html/module-4-finding-understanding-sources.html">
+      <file href="html/module-4-finding-understanding-sources.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mt8oo6oa-31tki3usc" type="webcontent" adlcp:scormtype="sco" href="html/1-not-all-sources-do-the-same-job.html">
+      <file href="html/1-not-all-sources-do-the-same-job.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mt8orh8w-xszx41m8t" type="webcontent" adlcp:scormtype="sco" href="html/2-scholarly-and-popular-sources.html">
+      <file href="html/2-scholarly-and-popular-sources.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mt8pgr6f-06kkhwlvs" type="webcontent" adlcp:scormtype="sco" href="html/3-primary-secondary-and-tertiary-sources.html">
+      <file href="html/3-primary-secondary-and-tertiary-sources.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mt8q0kfu-m36ighprp" type="webcontent" adlcp:scormtype="sco" href="html/4-what-is-peer-review.html">
+      <file href="html/4-what-is-peer-review.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mt8q6a36-85vuhqpb7" type="webcontent" adlcp:scormtype="sco" href="html/5-ministry-and-practitioner-sources.html">
+      <file href="html/5-ministry-and-practitioner-sources.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mt8sb0ht-hnk1e7b4t" type="webcontent" adlcp:scormtype="sco" href="html/6-match-the-source-to-the-need.html">
+      <file href="html/6-match-the-source-to-the-need.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mt8sn70k-8sfjd9q2u" type="webcontent" adlcp:scormtype="sco" href="html/module-4-quiz.html">
+      <file href="html/module-4-quiz.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mt8sx15t-qzq79l996" type="webcontent" adlcp:scormtype="sco" href="html/module-wrap-up-4.html">
+      <file href="html/module-wrap-up-4.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mt8zhv24-txmi1ufud" type="webcontent" adlcp:scormtype="sco" href="html/module-5-searching-strategically.html">
+      <file href="html/module-5-searching-strategically.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mtacb85h-6ep6jcs77" type="webcontent" adlcp:scormtype="sco" href="html/1-searching-is-translation.html">
+      <file href="html/1-searching-is-translation.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mtacjpcu-qgq9h35zk" type="webcontent" adlcp:scormtype="sco" href="html/2-from-concepts-to-a-keyword-bank.html">
+      <file href="html/2-from-concepts-to-a-keyword-bank.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mtbjyca5-1el4nv2h5" type="webcontent" adlcp:scormtype="sco" href="html/3-combine-concepts-with-and-and-or.html">
+      <file href="html/3-combine-concepts-with-and-and-or.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mtbl3aw1-s0cmx9q8p" type="webcontent" adlcp:scormtype="sco" href="html/4-use-filters-carefully.html">
+      <file href="html/4-use-filters-carefully.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mtbleqb9-mrp2d79ov" type="webcontent" adlcp:scormtype="sco" href="html/5-when-a-search-does-not-work.html">
+      <file href="html/5-when-a-search-does-not-work.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mtblpiat-wqftmehv2" type="webcontent" adlcp:scormtype="sco" href="html/6-let-good-sources-improve-your-search.html">
+      <file href="html/6-let-good-sources-improve-your-search.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mtbmjtlp-2fm8ipavl" type="webcontent" adlcp:scormtype="sco" href="html/module-5-quiz.html">
+      <file href="html/module-5-quiz.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mtbmiplp-h6asd788x" type="webcontent" adlcp:scormtype="sco" href="html/module-wrap-up-5.html">
+      <file href="html/module-wrap-up-5.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mtcv3bxl-tlqrppk2o" type="webcontent" adlcp:scormtype="sco" href="html/module-6-evaluating-information-authority.html">
+      <file href="html/module-6-evaluating-information-authority.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mtcvigt8-1hr1c42tk" type="webcontent" adlcp:scormtype="sco" href="html/1-finding-information-is-not-the-same-as-verifying.html">
+      <file href="html/1-finding-information-is-not-the-same-as-verifying.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mtcvktbp-anblps9bl" type="webcontent" adlcp:scormtype="sco" href="html/2-use-sift.html">
+      <file href="html/2-use-sift.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mtcvmx9e-i7ug88mc3" type="webcontent" adlcp:scormtype="sco" href="html/3-lateral-reading.html">
+      <file href="html/3-lateral-reading.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mtcvu1bz-84odjkhxh" type="webcontent" adlcp:scormtype="sco" href="html/4-bias-and-perspective.html">
+      <file href="html/4-bias-and-perspective.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mtcvvt59-pecg4uxiq" type="webcontent" adlcp:scormtype="sco" href="html/5-evaluate-evidence-and-reasoning.html">
+      <file href="html/5-evaluate-evidence-and-reasoning.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mtcw4vyf-jgh1jhysv" type="webcontent" adlcp:scormtype="sco" href="html/6-authority-for-what.html">
+      <file href="html/6-authority-for-what.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mtcwfv4i-2fbnaojtg" type="webcontent" adlcp:scormtype="sco" href="html/7-credentials-and-affiliations.html">
+      <file href="html/7-credentials-and-affiliations.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mtcx0tai-bcmm780bi" type="webcontent" adlcp:scormtype="sco" href="html/module-6-quiz.html">
+      <file href="html/module-6-quiz.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mtcwxkuf-hmqte66g0" type="webcontent" adlcp:scormtype="sco" href="html/module-wrap-up-6.html">
+      <file href="html/module-wrap-up-6.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mt7f4vgp-zrzy3ptl7" type="webcontent" adlcp:scormtype="sco" href="html/module-7-writing-successful-research-papers.html">
+      <file href="html/module-7-writing-successful-research-papers.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mt7fxiln-txvmnn2mm" type="webcontent" adlcp:scormtype="sco" href="html/1-start-with-the-assignment.html">
+      <file href="html/1-start-with-the-assignment.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mt7gf7ql-q59j7uryh" type="webcontent" adlcp:scormtype="sco" href="html/2-sources-should-have-a-purpose.html">
+      <file href="html/2-sources-should-have-a-purpose.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mt7hhwbg-hogvfirz9" type="webcontent" adlcp:scormtype="sco" href="html/3-one-source-can-do-different-jobs.html">
+      <file href="html/3-one-source-can-do-different-jobs.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mt7hk8n8-j0b0oqg3n" type="webcontent" adlcp:scormtype="sco" href="html/4-your-voice-connects-the-sources.html">
+      <file href="html/4-your-voice-connects-the-sources.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mt7i4pzb-calkcwi8i" type="webcontent" adlcp:scormtype="sco" href="html/5-what-if-your-sources-disagree.html">
+      <file href="html/5-what-if-your-sources-disagree.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mt7i7qv9-z4uzewl1v" type="webcontent" adlcp:scormtype="sco" href="html/6-understanding-counterarguments.html">
+      <file href="html/6-understanding-counterarguments.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mt7inte6-0i5b12rgv" type="webcontent" adlcp:scormtype="sco" href="html/7-writing-a-strong-conclusion.html">
+      <file href="html/7-writing-a-strong-conclusion.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mt7iruar-f8ok63oei" type="webcontent" adlcp:scormtype="sco" href="html/8-research-tips-work-smarter-not-just-longer.html">
+      <file href="html/8-research-tips-work-smarter-not-just-longer.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mt7izbfb-c1h0vhw66" type="webcontent" adlcp:scormtype="sco" href="html/module-7-quiz.html">
+      <file href="html/module-7-quiz.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mt8qgnwl-jv6ssfe89" type="webcontent" adlcp:scormtype="sco" href="html/module-wrap-up-7.html">
+      <file href="html/module-wrap-up-7.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mthbahy1-8ls7kogz9" type="webcontent" adlcp:scormtype="sco" href="html/module-8-researching-for-ministry.html">
+      <file href="html/module-8-researching-for-ministry.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mtiuawme-l3s6hf8wy" type="webcontent" adlcp:scormtype="sco" href="html/1-begin-with-the-research-need.html">
+      <file href="html/1-begin-with-the-research-need.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mtiucp0p-sa4r7ubwz" type="webcontent" adlcp:scormtype="sco" href="html/2-bible-dictionaries-and-reference-works.html">
+      <file href="html/2-bible-dictionaries-and-reference-works.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mtiugmoo-n1ahays5q" type="webcontent" adlcp:scormtype="sco" href="html/3-choosing-commentaries.html">
+      <file href="html/3-choosing-commentaries.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mtiuo5j5-9q2a48fzc" type="webcontent" adlcp:scormtype="sco" href="html/4-theological-journals.html">
+      <file href="html/4-theological-journals.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mtiupyos-cr7ke7k4m" type="webcontent" adlcp:scormtype="sco" href="html/5-open-access-theology.html">
+      <file href="html/5-open-access-theology.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mtiurtvx-eu1i0hidw" type="webcontent" adlcp:scormtype="sco" href="html/6-ministry-and-practitioner-resources.html">
+      <file href="html/6-ministry-and-practitioner-resources.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mtiv7el5-hdkb1qz90" type="webcontent" adlcp:scormtype="sco" href="html/7-faith-and-scholarship.html">
+      <file href="html/7-faith-and-scholarship.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mtivvs5m-7xtqprnh3" type="webcontent" adlcp:scormtype="sco" href="html/module8-quiz.html">
+      <file href="html/module8-quiz.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mtivultg-5zzcvxd1i" type="webcontent" adlcp:scormtype="sco" href="html/module-wrap-up-8.html">
+      <file href="html/module-wrap-up-8.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mtj0en05-mwl1yo9l3" type="webcontent" adlcp:scormtype="sco" href="html/tutorial-completion.html">
+      <file href="html/tutorial-completion.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="COMMON_FILES" type="webcontent" adlcp:scormtype="asset">
+      <file href="content.dtd"/>
+      <file href="content.xml"/>
+      <file href="content/css/base.css"/>
+      <file href="content/img/exe_powered_logo.png"/>
+      <file href="idevices/form/exequexthits.svg"/>
+      <file href="idevices/form/exequextrerrors.svg"/>
+      <file href="idevices/form/exequextsq.svg"/>
+      <file href="idevices/form/form.css"/>
+      <file href="idevices/form/form.html"/>
+      <file href="idevices/form/form.js"/>
+      <file href="idevices/form/formnext.png"/>
+      <file href="idevices/form/formnextd.png"/>
+      <file href="idevices/form/formprevious.png"/>
+      <file href="idevices/form/formpreviousd.png"/>
+      <file href="idevices/form/frmhidesuggestion.png"/>
+      <file href="idevices/form/frmshowsuggestion.png"/>
+      <file href="idevices/text/exequextsq.svg"/>
+      <file href="idevices/text/text.css"/>
+      <file href="idevices/text/text.html"/>
+      <file href="idevices/text/text.js"/>
+      <file href="imslrm.xml"/>
+      <file href="libs/SCOFunctions.js"/>
+      <file href="libs/SCORM_API_wrapper.js"/>
+      <file href="libs/bootstrap/bootstrap.bundle.min.js"/>
+      <file href="libs/bootstrap/bootstrap.bundle.min.js.map"/>
+      <file href="libs/bootstrap/bootstrap.min.css"/>
+      <file href="libs/bootstrap/bootstrap.min.css.map"/>
+      <file href="libs/common.js"/>
+      <file href="libs/common_i18n.js"/>
+      <file href="libs/exe_export.js"/>
+      <file href="libs/favicon.ico"/>
+      <file href="libs/jquery/jquery.min.js"/>
+      <file href="libs/xapi/exe_xapi.js"/>
+      <file href="theme/config.xml"/>
+      <file href="theme/fonts/Atkinson-Hyperlegible-Regular-102a.woff2"/>
+      <file href="theme/icons/emociones.svg"/>
+      <file href="theme/icons/udl_eng_aprenderaprender.svg"/>
+      <file href="theme/icons/udl_eng_culturales.svg"/>
+      <file href="theme/icons/udl_eng_curiosidad.svg"/>
+      <file href="theme/icons/udl_eng_descarga.svg"/>
+      <file href="theme/icons/udl_eng_objetivos.svg"/>
+      <file href="theme/icons/udl_eng_orientaciones.svg"/>
+      <file href="theme/icons/udl_eng_reto.svg"/>
+      <file href="theme/icons/udl_eng_rss.svg"/>
+      <file href="theme/icons/udl_eng_rubrica.svg"/>
+      <file href="theme/icons/udl_eng_saber.svg"/>
+      <file href="theme/icons/udl_eng_temporalizacion.svg"/>
+      <file href="theme/icons/udl_exp_actividad.svg"/>
+      <file href="theme/icons/udl_exp_canto.svg"/>
+      <file href="theme/icons/udl_exp_competenciadigital.svg"/>
+      <file href="theme/icons/udl_exp_coproduccionoral.svg"/>
+      <file href="theme/icons/udl_exp_coproducciontxt.svg"/>
+      <file href="theme/icons/udl_exp_cuestionario.svg"/>
+      <file href="theme/icons/udl_exp_debate.svg"/>
+      <file href="theme/icons/udl_exp_ejercicio.svg"/>
+      <file href="theme/icons/udl_exp_escribe.svg"/>
+      <file href="theme/icons/udl_exp_escucha.svg"/>
+      <file href="theme/icons/udl_exp_graba.svg"/>
+      <file href="theme/icons/udl_exp_grupoheterogeneo.svg"/>
+      <file href="theme/icons/udl_exp_grupohomogeneo.svg"/>
+      <file href="theme/icons/udl_exp_habla.svg"/>
+      <file href="theme/icons/udl_exp_interactivo.svg"/>
+      <file href="theme/icons/udl_exp_juego.svg"/>
+      <file href="theme/icons/udl_exp_lee.svg"/>
+      <file href="theme/icons/udl_exp_lenguasignos.svg"/>
+      <file href="theme/icons/udl_exp_manipula.svg"/>
+      <file href="theme/icons/udl_exp_mediacion.svg"/>
+      <file href="theme/icons/udl_exp_musica.svg"/>
+      <file href="theme/icons/udl_exp_practicamusical.svg"/>
+      <file href="theme/icons/udl_exp_tarea.svg"/>
+      <file href="theme/icons/udl_exp_tareagrupal.svg"/>
+      <file href="theme/icons/udl_rep_adjunto.svg"/>
+      <file href="theme/icons/udl_rep_apoyovisual.svg"/>
+      <file href="theme/icons/udl_rep_caso.svg"/>
+      <file href="theme/icons/udl_rep_conocer.svg"/>
+      <file href="theme/icons/udl_rep_destacado.svg"/>
+      <file href="theme/icons/udl_rep_ejemplo.svg"/>
+      <file href="theme/icons/udl_rep_escucha.svg"/>
+      <file href="theme/icons/udl_rep_fonetica.svg"/>
+      <file href="theme/icons/udl_rep_galeria.svg"/>
+      <file href="theme/icons/udl_rep_gramatica.svg"/>
+      <file href="theme/icons/udl_rep_importante.svg"/>
+      <file href="theme/icons/udl_rep_informarse.svg"/>
+      <file href="theme/icons/udl_rep_lecturafacil.svg"/>
+      <file href="theme/icons/udl_rep_lee.svg"/>
+      <file href="theme/icons/udl_rep_lenguasignos.svg"/>
+      <file href="theme/icons/udl_rep_mediar.svg"/>
+      <file href="theme/icons/udl_rep_nota.svg"/>
+      <file href="theme/icons/udl_rep_pasos.svg"/>
+      <file href="theme/icons/udl_rep_recomienda.svg"/>
+      <file href="theme/icons/udl_rep_redessemanticas.svg"/>
+      <file href="theme/icons/udl_rep_reflexion.svg"/>
+      <file href="theme/icons/udl_rep_reproduccion.svg"/>
+      <file href="theme/icons/udl_rep_vocabulario.svg"/>
+      <file href="theme/icons/udl_sup_adjunto.svg"/>
+      <file href="theme/icons/udl_sup_aprenderaprender.svg"/>
+      <file href="theme/icons/udl_sup_caso.svg"/>
+      <file href="theme/icons/udl_sup_cuestionario.svg"/>
+      <file href="theme/icons/udl_sup_curiosidad.svg"/>
+      <file href="theme/icons/udl_sup_debate.svg"/>
+      <file href="theme/icons/udl_sup_descarga.svg"/>
+      <file href="theme/icons/udl_sup_destacado.svg"/>
+      <file href="theme/icons/udl_sup_escribe.svg"/>
+      <file href="theme/icons/udl_sup_galeria.svg"/>
+      <file href="theme/icons/udl_sup_graba.svg"/>
+      <file href="theme/icons/udl_sup_habla.svg"/>
+      <file href="theme/icons/udl_sup_interactivo.svg"/>
+      <file href="theme/icons/udl_sup_juego.svg"/>
+      <file href="theme/icons/udl_sup_lee.svg"/>
+      <file href="theme/icons/udl_sup_manipula.svg"/>
+      <file href="theme/icons/udl_sup_musica.svg"/>
+      <file href="theme/icons/udl_sup_nota.svg"/>
+      <file href="theme/icons/udl_sup_objetivos.svg"/>
+      <file href="theme/icons/udl_sup_reflexion.svg"/>
+      <file href="theme/icons/udl_sup_reproduccion.svg"/>
+      <file href="theme/icons/udl_sup_rubrica.svg"/>
+      <file href="theme/icons/udl_sup_tarea.svg"/>
+      <file href="theme/icons/udl_sup_tareagrupal.svg"/>
+      <file href="theme/icons/udl_sup_temporalizacion.svg"/>
+      <file href="theme/icons/udl_sup_vocabulario.svg"/>
+      <file href="theme/img/home.png"/>
+      <file href="theme/img/icons.png"/>
+      <file href="theme/img/licenses.gif"/>
+      <file href="theme/screenshot.png"/>
+      <file href="theme/style.css"/>
+      <file href="theme/style.js"/>
+    </resource>
+  </resources>
+</manifest>

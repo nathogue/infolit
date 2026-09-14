@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1">
+  <general uniqueElementName="general">
+    <identifier>
+      <catalog uniqueElementName="catalog">none</catalog>
+      <entry uniqueElementName="entry">ODE-20260909153213EFIWDV</entry>
+    </identifier>
+    <title>
+      <string language="en">Information Literacy Tutorial
+</string>
+    </title>
+    <language>en</language>
+    <description>
+      <string language="en"></string>
+    </description>
+    <aggregationLevel uniqueElementName="aggregationLevel">
+      <source uniqueElementName="source">LOM-ESv1.0</source>
+      <value uniqueElementName="value">2</value>
+    </aggregationLevel>
+  </general>
+  <lifeCycle>
+    <contribute>
+      <role uniqueElementName="role">
+        <source uniqueElementName="source">LOM-ESv1.0</source>
+        <value uniqueElementName="value">author</value>
+      </role>
+      <entity>BEGIN:VCARD VERSION:3.0 FN:Natasa Hogue EMAIL;TYPE=INTERNET: ORG: END:VCARD</entity>
+      <date>
+        <dateTime uniqueElementName="dateTime">2026-09-09T15:32:22.00-04:00</dateTime>
+        <description>
+          <string language="en">Metadata creation date</string>
+        </description>
+      </date>
+    </contribute>
+  </lifeCycle>
+  <metaMetadata uniqueElementName="metaMetadata">
+    <contribute>
+      <role uniqueElementName="role">
+        <source uniqueElementName="source">LOM-ESv1.0</source>
+        <value uniqueElementName="value">creator</value>
+      </role>
+      <entity>BEGIN:VCARD VERSION:3.0 FN:Natasa Hogue EMAIL;TYPE=INTERNET: ORG: END:VCARD</entity>
+      <date>
+        <dateTime uniqueElementName="dateTime">2026-09-09T15:32:22.00-04:00</dateTime>
+        <description>
+          <string language="en">Metadata creation date</string>
+        </description>
+      </date>
+    </contribute>
+    <metadataSchema>LOM-ESv1.0</metadataSchema>
+    <language>en</language>
+  </metaMetadata>
+  <technical uniqueElementName="technical">
+    <otherPlatformRequirements>
+      <string language="en">editor: eXe Learning</string>
+    </otherPlatformRequirements>
+  </technical>
+  <educational>
+    <language>en</language>
+  </educational>
+  <rights uniqueElementName="rights">
+    <copyrightAndOtherRestrictions uniqueElementName="copyrightAndOtherRestrictions">
+      <source uniqueElementName="source">LOM-ESv1.0</source>
+      <value uniqueElementName="value">creative commons: attribution - share alike 4.0</value>
+    </copyrightAndOtherRestrictions>
+    <access uniqueElementName="access">
+      <accessType uniqueElementName="accessType">
+        <source uniqueElementName="source">LOM-ESv1.0</source>
+        <value uniqueElementName="value">universal</value>
+      </accessType>
+      <description>
+        <string language="en">Default</string>
+      </description>
+    </access>
+  </rights>
+</lom>
